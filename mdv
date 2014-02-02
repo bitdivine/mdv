@@ -1,0 +1,4 @@
+
+<"$1" perl -pi -e 's/[[:^ascii:]]//g' | pandoc -s -f markdown -t man | man -l -
+
+
