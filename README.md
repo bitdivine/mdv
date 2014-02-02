@@ -1,7 +1,7 @@
 mdv
 ===
 
-Command line markdown viewer (for terminals, bash, sh, or whatever you please!)
+Command line markdown viewer
 
 Prerequisites:
 * [pandoc (preinstalled or supported on most platforms)](http://johnmacfarlane.net/pandoc/installing.html)
